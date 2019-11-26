@@ -3,3 +3,9 @@ body{
   font-family: "Arial";
   color: deeppink;
 }
+.version{
+  width: 25vw;
+  color: green;
+  border: 3px solid green;
+
+}
